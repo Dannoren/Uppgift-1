@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+}
+
+.rubrik{
+   color: black; 
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.text1{
+margin: 40px;
+font-size: 17px;
+}
+.container1{
+    margin: 0px 400px;
+    
+}
+img{
+    width: 350px;
+    height: 350px;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+.container2{
+    display:flex;
+justify-content: center;
+
+}
+.textomhund{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 350px;
+    bottom: 12px;
+}
+.textomkatt{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 850px;
+    bottom: 30px;
+}
